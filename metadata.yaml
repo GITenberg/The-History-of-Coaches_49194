@@ -1,4 +1,8 @@
 _repo: The-History-of-Coaches_49194
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49194-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Thrupp, George Athelstane
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '45186'
     url: http://www.gutenberg.org/2009/agents/45186
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49194#The-History-of-Coaches
 gutenberg_issued: '2015-06-11'
 gutenberg_type: Text
 identifiers:
